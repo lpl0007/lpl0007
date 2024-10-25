@@ -7,7 +7,8 @@ Skills: Python / Java / C++ / HTML / CSS / MIPS
 - 🌱 I’m currently learning MIPS/Assembly 
 - 😄 Pronouns: She/Her 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpl0007&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpl0007&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lpl0007&theme=github)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lpl0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lanie-louque/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpl0007)](https://github.com/anuraghazra/github-readme-stats)

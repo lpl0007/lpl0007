@@ -4,7 +4,7 @@ My journey in coding began with a fascination for problem-solving and has since 
 
 Skills: Python / Java / C++ / HTML / CSS / MIPS
 
-- 🌱 I’m currently learning Apex
+- 🌱 I’m currently learning Apex/VisualForce
 - 😄 Pronouns: She/Her 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpl0007&theme=github)
@@ -17,3 +17,4 @@ Skills: Python / Java / C++ / HTML / CSS / MIPS
 + Java was coded in Repl.it or jGRASP
 + C++ was coded with Ubuntu
 + MIPS/Assembly was coded in MARS
++ AApex was coded in Visual Studio Code

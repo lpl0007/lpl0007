@@ -7,11 +7,14 @@ Skills: Python / Java / C++ / HTML / CSS / MIPS
 - 🌱 I’m currently learning Apex/VisualForce
 - 😄 Pronouns: She/Her 
 
+<div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpl0007&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpl0007&theme=github&langs_count=10)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lpl0007&theme=github&langs_count=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpl0007&theme=github&langs_count=10)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lpl0007&theme=github&langs_count=10)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lpl0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lanie-louque/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lpl0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lanie-louque/)
+
+</div>
 
 + Python was coded in Repl.it
 + Java was coded in Repl.it or jGRASP

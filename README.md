@@ -20,4 +20,5 @@ Skills: Python / Java / C++ / HTML / CSS / MIPS
 + Java was coded in Repl.it or jGRASP
 + C++ was coded with Ubuntu
 + MIPS/Assembly was coded in MARS
-+ AApex was coded in Visual Studio Code
++ Apex was coded in Visual Studio Code
++ JavaScript was coded in Visual Studio Code

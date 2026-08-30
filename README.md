@@ -1,24 +1,25 @@
-### Hi there 👋, my name is Lanie.
-#### I am a Software Engineering student at Auburn University.
-My journey in coding began with a fascination for problem-solving and has since evolved into a college experience dedicated to learning to creating software that makes a difference. I am proficient in Python, Java, and C++. Throughout my time at Auburn, I have had the opportunity to work in a group setting while learning, allowing me to grow used to relying on my team for assistance. Beyond the code, I’m an advocate for continuous learning and staying up-to-date with emerging technologies. When I’m not coding, you can find me reading or writing.
+# Hi, I'm Lanie Louque 👋
 
-Skills: Python / Java / C++ / HTML / CSS / MIPS
+I'm a Software Engineering student at Auburn University with experience in software development, Salesforce development, and cybersecurity.
 
-- 🌱 I’m currently learning Apex/VisualForce
-- 😄 Pronouns: She/Her 
+I'm interested in software engineering, application development, cybersecurity, and secure software development.
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpl0007&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpl0007&theme=github&langs_count=10)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lpl0007&theme=github&langs_count=10)
+### Technical Skills
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lpl0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lanie-louque/)
+**Languages:** Python, Java, C++, JavaScript, Ruby, SQL, Apex, MIPS/Assembly, HTML, CSS
 
-</div>
+**Technologies & Tools:** Salesforce, Lightning Web Components, GitHub, Visual Studio Code, Ubuntu/Linux, Wireshark, Kali Linux
 
-+ Python was coded in Repl.it
-+ Java was coded in Repl.it or jGRASP
-+ C++ was coded with Ubuntu
-+ MIPS/Assembly was coded in MARS
-+ Apex was coded in Visual Studio Code
-+ JavaScript was coded in Visual Studio Code
+### Education
+
+**Auburn University**
+B.S. Software Engineering — Expected December 2026
+Accelerated Bachelor's to Master's Program — M.S. Cybersecurity
+
+### Areas of Interest
+
+* Software Engineering
+* Cybersecurity
+* Application Security
+* Secure Software Development
+* Salesforce Development
